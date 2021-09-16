@@ -6,13 +6,13 @@ This is sketch2shanshui dataset created by [Aven Le Zhou](https://www.aven.cc) f
 
   * raw image sources (205 paintings)
     * (112 paintings) [the National Palace Museum Open Data Platform](https://theme.npm.edu.tw/opendata/?lang=2)
-    * (93 paintings) and [Chinese online shopping platform](www.taobao.com/)
+    * (93 paintings) and [Chinese online shopping platform](https://www.taobao.com/)
 
 * sketch2shanshui file structure
   * NPM
     * ~~raw~~
     * ~~frame_removed~~
-    * 512x512
+    * 512\*512
   * TAOBAO
     * raw
     * frame_removed

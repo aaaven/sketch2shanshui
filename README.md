@@ -16,7 +16,7 @@ This is sketch2shanshui dataset created by [Aven Le Zhou](https://www.aven.cc) f
   * TAOBAO
     * raw
     * frame_removed
-    * 512x512
+    * 512\*512
   * sketch2shanshui
     * trainA
     * trainB
